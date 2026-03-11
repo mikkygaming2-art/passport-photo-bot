@@ -2,3 +2,4 @@ python-telegram-bot
 pillow
 opencv-python
 numpy
+flask
